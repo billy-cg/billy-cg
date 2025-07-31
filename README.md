@@ -21,7 +21,7 @@ Soy estudiante de la Tecnicatura Universitaria en Programacion (UTN) y estoy con
 
 ### 🤝 Me gustaria colaborar en...
 - Proyectos open source simples que usen C++ o lógica básica.
-- Automatización con Python o scripting para tareas útiles.
+- Automatización con Python.
 
 ### 📫 Como contactarme
 - [LinkedIn](https://www.linkedin.com/in/guillermo-caratini-79975120b/) 
