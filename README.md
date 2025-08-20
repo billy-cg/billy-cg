@@ -14,7 +14,6 @@ Soy estudiante de la Tecnicatura Universitaria en Programacion (UTN) y estoy con
 - Git y GitHub para control de versiones
 
 ### 🛠️ Mis repos interesantes
-- 🐍 [Juego de la víborita en C++](#)
 - 🎲 [Simulador de juegos con numeros aleatorios](#)
 - 🔢 [Conversor de decimal a binario](#)
 > Pueden explorar las carpetas del repo para ver los códigos completos.
